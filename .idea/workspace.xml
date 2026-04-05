@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8039e1aa-3cf1-4da6-86d9-6cc4a631c525" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/database/mongoose.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test-db.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/inngest/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(auth)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/UserDropdown.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/UserDropdown.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/actions/auth.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/auth.actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/better-auth/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/better-auth/auth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/inngest/client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/inngest/client.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/inngest/functions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/inngest/functions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/nodemailer/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nodemailer/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/nodemailer/templates.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/nodemailer/templates.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -26,6 +36,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showToolbar" value="false" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -47,6 +61,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "ToolWindow.Problems View.ShowToolbar": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "database",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
@@ -108,6 +125,7 @@
       <workItem from="1775216128925" duration="3348000" />
       <workItem from="1775219807861" duration="2766000" />
       <workItem from="1775319288640" duration="6583000" />
+      <workItem from="1775388239261" duration="4058000" />
     </task>
     <servers />
   </component>
