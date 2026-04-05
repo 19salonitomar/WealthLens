@@ -27,7 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
     <option name="showToolbar" value="false" />
   </component>
   <component name="ProjectColorInfo">{
@@ -114,7 +114,7 @@
       <workItem from="1775216128925" duration="3348000" />
       <workItem from="1775219807861" duration="2766000" />
       <workItem from="1775319288640" duration="6583000" />
-      <workItem from="1775388239261" duration="6680000" />
+      <workItem from="1775388239261" duration="7191000" />
     </task>
     <servers />
   </component>
