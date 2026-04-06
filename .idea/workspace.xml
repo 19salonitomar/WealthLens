@@ -6,14 +6,24 @@
   <component name="ChangeListManager">
     <list default="true" id="8039e1aa-3cf1-4da6-86d9-6cc4a631c525" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/app/api/inngest/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/SearchCommand.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/sonner.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/mongoose.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useDebounce.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/middleware/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test-db.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test-db.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(auth)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/NavItems.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/NavItems.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/UserDropdown.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/UserDropdown.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/actions/auth.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/auth.actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/actions/finnhub.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/finnhub.actions.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/better-auth/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/better-auth/auth.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/inngest/client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/inngest/client.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/inngest/functions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/inngest/functions.ts" afterDir="false" />
@@ -64,6 +74,7 @@
     "ToolWindow.Problems View.ShowToolbar": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Merging main",
     "git-widget-placeholder": "database",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
@@ -83,6 +94,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\salon\OneDrive\Desktop\wealthlens\app\(root)" />
       <recent name="C:\Users\salon\OneDrive\Desktop\wealthlens" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$" />
