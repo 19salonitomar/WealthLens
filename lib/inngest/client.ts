@@ -1,6 +1,6 @@
-import { Inngest} from "inngest";
+import { Inngest } from "inngest";
 
 export const inngest = new Inngest({
-    id: 'wealthlens',
-    ai: { gemini: { apiKey: process.env.GEMINI_API_KEY! }}
-})
+    id: "wealth-lens",
+    ai: { gemini: { apiKey: process.env.GEMINI_API_KEY! } }
+});
